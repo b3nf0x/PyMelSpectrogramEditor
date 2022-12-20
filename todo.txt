@@ -1,0 +1,4 @@
+get mel spec from npy file
+display mel spec on screen
+allow editing with clicks
+save edited mel spec to npy file
